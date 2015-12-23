@@ -1,0 +1,35 @@
+<kml xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:atom="http://www.w3.org/2005/Atom" xmlns="http://www.opengis.net/kml/2.2">
+  <Folder>
+    <name>PySAR product</name>
+    <GroundOverlay>
+      <name>TSSAR/geo_velocity_masked.png</name>
+      <Icon>
+        <href>TSSAR/geo_velocity_masked.png</href>
+      </Icon>
+      <TimeSpan>
+        <begin>2003</begin>
+        <end>2010</end>
+      </TimeSpan>
+      <LatLonBox>
+        <north>4.50014</north>
+        <south>2.000415778</south>
+        <east>99.999624622</east>
+        <west>96.9999</west>
+      </LatLonBox>
+    </GroundOverlay>
+    <GroundOverlay>
+      <name>colorbar</name>
+      <Icon>
+        <href>colorbar.png</href>
+      </Icon>
+      <altitude>9000</altitude>
+      <altitudeMode>absolute</altitudeMode>
+      <LatLonBox>
+        <north>3.750277889</north>
+        <south>2.750277889</south>
+        <east>96.3999550756</east>
+        <west>95.8000101512</west>
+      </LatLonBox>
+    </GroundOverlay>
+  </Folder>
+</kml>
